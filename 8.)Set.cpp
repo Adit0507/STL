@@ -1,3 +1,4 @@
+// Used to store only keys
 // Stores everything in sorted order
 // Each value is unique
 
