@@ -1,4 +1,5 @@
-// Map stores unique keys in sorted order
+// Map is used to store key value pairs
+// Map stores unique values in sorted order
 
 #include <bits\stdc++.h>
 using namespace std;
