@@ -1,4 +1,5 @@
 // Rest Func. same as VECTOR
+// Allows operations at the front and back
 
 #include <bits\stdc++.h>
 using namespace std;
