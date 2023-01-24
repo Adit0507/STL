@@ -34,6 +34,8 @@ void explainSet() {
     // lower_bound and upper_bound() works in the same way as vector does
     auto it = st.lower_bound(2);
     auto it = st.upper_bound(3);
+
+    st.clear(); // Deletes all elements in the set
 }
 
 void explainMultiSet(){
