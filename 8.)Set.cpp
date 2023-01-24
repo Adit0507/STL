@@ -1,6 +1,8 @@
 // Used to store only keys
 // Stores everything in sorted order
 // Each value is unique
+// Every operation takes O(1) complexity in AVG. case and
+// O(n) in the worst case
 
 #include <bits\stdc++.h>
 using namespace std;
